@@ -1,0 +1,10 @@
+Can you create a Moving Average Models on the Travel Data ---
+based on Date and Distance 
+based on Date and Avg Speed.
+
+Finally build a Timeseries Model (ARIMA)  - 
+1. Date and Distance 
+2. Date and Avg Speed and Forecast for February 2012.
+3. Build proper Charts and Forecast for February 2012.
+
+###########################################################
